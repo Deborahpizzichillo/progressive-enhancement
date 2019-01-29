@@ -1,0 +1,39 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    font-size: 30px;
+  }
+blockquote{
+    
+    font-family: serif;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+h2{
+    
+    font-family: serif;
+    font-size: 15px;
+    letter-spacing: 1px
+    
+hr{
+    
+    font-family: serif;
+    font-size: 15px;
+    letter-spacing: 1px
+}
+h1{
+    font-family: serif;
+    letter-spacing: 1px;
+
+}
+footer{
+    font-family: serif;
+    font-size:15px;
+    letter-spacing: 1px
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
